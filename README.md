@@ -11,3 +11,9 @@ IC Assignments 2: Chapter 2 of Ecology Handbook
 - Making an exponential equation to measure how quickly duckweed covers a pond
 - Minimal tech difficulties
 - Works and introduced matplotlib
+
+IC In Class Example 1
+- Used the function from IC Assignment 2
+- Log the function and graphed it
+- Used if statements within a for loop to simulate population growth
+- Graphed the duckweed population

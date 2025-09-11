@@ -17,3 +17,7 @@ IC In Class Example 1
 - Log the function and graphed it
 - Used if statements within a for loop to simulate population growth
 - Graphed the duckweed population
+
+IC Assignment 3: Chapter 3 of Ecology Handbook
+- Created a a Logistic  Model
+- Ran into some tech difficulties

@@ -20,7 +20,9 @@ IC In Class Example 1
 
 IC Assignment 3: Chapter 3 of Ecology Handbook
 - Created a a Logistic  Model
-- Ran into some tech difficulties
+- Ran into some tech difficulties with kernal 
+- Applied death rate into the new logistical equation
+- Created plots for both logistic models
 
 IC In Class Example 2
 - Imported the first set of data with pandas

@@ -21,3 +21,7 @@ IC In Class Example 1
 IC Assignment 3: Chapter 3 of Ecology Handbook
 - Created a a Logistic  Model
 - Ran into some tech difficulties
+
+IC In Class Example 2
+- Imported the first set of data with pandas
+- ran plot models with the help of copilot

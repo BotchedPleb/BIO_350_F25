@@ -27,3 +27,9 @@ IC Assignment 3: Chapter 3 of Ecology Handbook
 IC In Class Example 2
 - Imported the first set of data with pandas
 - ran plot models with the help of copilot
+
+IC Assignement 4: Chapter 4 of Ecology Handbook
+- Lotka-Volterra competition equation 
+- Created an algorthim to calculate the population growth of two plant population
+- Graphed using matplotlib to see the comparison betweeen the two populations
+- Answered questions regarding M populution

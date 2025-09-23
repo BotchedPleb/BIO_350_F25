@@ -33,3 +33,9 @@ IC Assignement 4: Chapter 4 of Ecology Handbook
 - Created an algorthim to calculate the population growth of two plant population
 - Graphed using matplotlib to see the comparison betweeen the two populations
 - Answered questions regarding M populution
+
+IC In Class Example 3
+- Used a modified Lotka-Volterra competition equation
+- Add an if statment within the for loop
+- Modified the function to reflect the new equation
+- Graph the various changes within the equation

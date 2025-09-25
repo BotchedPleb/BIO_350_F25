@@ -39,3 +39,10 @@ IC In Class Example 3
 - Add an if statment within the for loop
 - Modified the function to reflect the new equation
 - Graph the various changes within the equation
+
+IC Assignment 5: Chapter 5 of Ecology Handbook
+- SIR (Susceptable, Infected, Recovered) Models
+- Created a simulation for a Fox population being infected with Rabies
+- Used a function with a for loop 
+- Graph the simulation with all three values of SIR
+

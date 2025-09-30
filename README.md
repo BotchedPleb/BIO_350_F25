@@ -46,3 +46,8 @@ IC Assignment 5: Chapter 5 of Ecology Handbook
 - Used a function with a for loop 
 - Graph the simulation with all three values of SIR
 
+IC In Class Example 4
+- Imported an R file
+- Translated the initial chunck of R code into Python code
+- What got translated was a function and its graph
+- Successfully converted R code into Python code

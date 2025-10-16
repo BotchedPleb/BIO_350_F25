@@ -51,3 +51,8 @@ IC In Class Example 4
 - Translated the initial chunck of R code into Python code
 - What got translated was a function and its graph
 - Successfully converted R code into Python code
+
+IC Assignment 6: Chapter 11 & 12 of Ecology Handbook
+- Learned about matrices by using numpy
+- Applied an age structure growth model
+- Created an algorthim and plotted the results

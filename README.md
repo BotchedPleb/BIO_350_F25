@@ -56,3 +56,9 @@ IC Assignment 6: Chapter 11 & 12 of Ecology Handbook
 - Learned about matrices by using numpy
 - Applied an age structure growth model
 - Created an algorthim and plotted the results
+
+IC In Class Example 5
+- Modeled Stage-Structure population
+- Used a 3 stage approach
+- Used ChatGPT to created various "real-world" examples 
+- Mini reflection

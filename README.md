@@ -62,3 +62,11 @@ IC In Class Example 5
 - Used a 3 stage approach
 - Used ChatGPT to created various "real-world" examples 
 - Mini reflection
+
+IC Assignment 7: Chapter 13 &14 of Ecology Hanbook
+- Continued with matrices
+- Matries included Transition and Absorbsion 
+- Included chart from workbook to explain the absorbsion matrix
+- Used ChatGPT for coding help
+
+

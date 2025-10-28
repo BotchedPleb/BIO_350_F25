@@ -69,4 +69,7 @@ IC Assignment 7: Chapter 13 &14 of Ecology Hanbook
 - Included chart from workbook to explain the absorbsion matrix
 - Used ChatGPT for coding help
 
-
+IC In Class Example 6
+- Used ChatGPT for data example
+- Used a Possion model for Probability
+- Installed seaborn and scipy packages

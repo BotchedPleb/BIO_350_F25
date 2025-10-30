@@ -63,7 +63,7 @@ IC In Class Example 5
 - Used ChatGPT to created various "real-world" examples 
 - Mini reflection
 
-IC Assignment 7: Chapter 13 &14 of Ecology Hanbook
+IC Assignment 7: Chapter 13 & 14 of Ecology Handbook
 - Continued with matrices
 - Matries included Transition and Absorbsion 
 - Included chart from workbook to explain the absorbsion matrix
@@ -73,3 +73,8 @@ IC In Class Example 6
 - Used ChatGPT for data example
 - Used a Possion model for Probability
 - Installed seaborn and scipy packages
+
+IC Assignment 8: Chapter 7 of Ecology Handbook
+- Created a function to determine probability
+- Used stats.poisson.pmf as the method to calculate the probability
+- Round the results to produce a percentage

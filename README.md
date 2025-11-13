@@ -78,3 +78,8 @@ IC Assignment 8: Chapter 7 of Ecology Handbook
 - Created a function to determine probability
 - Used stats.poisson.pmf as the method to calculate the probability
 - Round the results to produce a percentage
+
+IC In Class Example 7
+- Used various sklearn packages to test and train data
+- Created a node network using for statements to train and test
+- Plotted our results using seaborn

@@ -1,3 +1,5 @@
 ## week of 11/3/25
 
  The following link https://www.nature.com/articles/s41467-021-26452-z provides the paper that analysize SARS-CoV-2 infection through mixture modelling. They used the language R to model their Bayesian analysis. They also used a Markov chain Monte Carlo algorithm to estimate any remain parameters after fixing the variance to fit their model. In terms what their data looks like it is separated in 9 different datasets and used a markdown file to write their code in. If only there were a data dictionary and ample commentary in their code to explain what everything does. From their code it appears that they were formating their data tables to best suit their needs to create their figures and tables. If I were to create a model, my input data would require or convert it into quantitative data to run a bayesian algorithm. Thus, creating a model to display what the algorithm outputs.
+
+ 

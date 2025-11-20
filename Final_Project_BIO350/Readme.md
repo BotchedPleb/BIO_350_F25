@@ -4,9 +4,4 @@
 
  ## Week of 11/10/25
 
-Describe your data, what your input and output data are
-Describe what you plan on doing with it (A -> B) given some input data, what is the output that you are trying to model?
-Why? What question will it answer? What do you expect to see? (hypothesis)
-What machine learning method from the Scikit Learn package do you think fits well to your data?
-
-The data I will be using has already been clean and I would verify that in my test run of the dataset. The data that has been collect revolves around spike protein levels that result from contracting COVID-19 in males and female around various parts of Kenya. The inputs I would be using are the spikeod, spike_negod, spikeratio, spikepos in order to created a model. The output would be a model that provides insight of how well the machine model can do with the inputs. The question I want to be answered is how well a model can predict whether someone has COVID based on their various spiked protien levels.The machine learning method I would be using from SciKit learn package would be a confusion matrix with the support of the accuracy of a random forrest classifer and logistical regression.
+The data I will be using has already been clean and I would verify that in my test run of the dataset. The data that has been collect revolves around spike protein levels that result from contracting COVID-19 in males and female around various parts of Kenya. The inputs I would be using are the spikeod, spike_negod, spikeratio, spikepos in order to created a model. The output would be a model that provides insight of how well the machine model can predict with the inputs it recieves. The question I want to be answered is how well a model can predict whether someone has COVID based on their various spiked protein levels.The machine learning method I would be using from SciKit learn package would be a confusion matrix with the support of the accuracy of a random forrest classifer and logistical regression.
